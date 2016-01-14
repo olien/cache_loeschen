@@ -1,0 +1,11 @@
+package: cache_loeschen
+version: '1.0'
+author: Oliver Kreischer
+supportpage: www.redaxo.org/de/forum
+
+page:
+    title: 'translate:title'
+    perm: cache_loeschen[]
+    icon: rex-icon fa-wrench
+    subpages:
+        main: { title: 'translate:main' }
