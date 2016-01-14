@@ -13,4 +13,4 @@ siehe [LICENSE.md](LICENSE.md)
 Credits
 -------
 
-* [RexDude](https://github.com/RexDude) für das [https://github.com/RexDude/clearcache](ClearCache AddOn für REDAXO 4)
+* [RexDude](https://github.com/RexDude) für das "ClearCache AddOn für REDAXO 4"
